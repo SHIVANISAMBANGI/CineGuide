@@ -40,7 +40,7 @@ Follow these simple steps to begin using CineGuide:
 - **Sambangi Shivani** - [GitHub Profile](https://github.com/SHIVANISAMBANGI)
 
 ## License
-This project is licensed under the **GNU General Public License**. See the LICENSE file for more details.
+This project is licensed under the **GNU General Public License**. See the [LICENSE](https://github.com/SHIVANISAMBANGI/CineGuide/blob/main/LICENSE) file for more details.
 
 ## Acknowledgments
 - **The Movie Database (TMDb)** for providing movie data.
